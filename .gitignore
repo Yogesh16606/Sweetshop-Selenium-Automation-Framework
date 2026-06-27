@@ -1,0 +1,29 @@
+# Maven
+target/
+
+# Extent Reports
+test-output/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Compiled Java
+*.class
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
