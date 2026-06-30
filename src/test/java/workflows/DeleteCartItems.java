@@ -78,9 +78,6 @@ public class DeleteCartItems extends DriverInstance {
 
             AlertUtil.acceptAlert();
 
-            WaitUtil.waitForSeconds(
-                    FrameworkConstants.SHORT_WAIT);
-
             deleteCartPage.waitForRemoveItemFour();
 
             deleteCartPage.removeItemFour();
